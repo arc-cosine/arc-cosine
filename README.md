@@ -17,6 +17,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-cosine&layout=compact&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=arc-cosine)
 
 @RC9 Studio 
 아코♡나나오아카리
