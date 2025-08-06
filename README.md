@@ -2,6 +2,7 @@
 
 <p align="center">
   <strong>안녕하세요, <code>아코</code>입니다.</strong><br>
+  디시 고닉 한아린.
   JS만 파는 6년차, Vanila Only.<br>
   지금 보고 있는 이 계정은... <em>부계정</em>이에요.
 </p>
