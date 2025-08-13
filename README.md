@@ -50,7 +50,6 @@
 
 ### 💬 끝으로...
 <img src="https://i.ibb.co/tTf66MLr/Kakao-Talk-Photo-2025-08-13-18-08-04.png" />
-> “중요한 것은 아름답게 만들고, 그 안의 사소한 것들은 제거하자!”  
-> - Project 要雅小非 @ RC9 Studio
->   (그 요아소비, 아야세 아님)
+- “중요한 것은 아름답게 만들고, 그 안의 사소한 것들은 제거하자!”  <br />
+- Project 要雅小非 @ RC9 Studio <br />
 
