@@ -12,10 +12,9 @@
 ### 🧙‍♂️ 아코는 누구?
 
 - JS 6년차 (Vanilla만 파는 집착맨)
-- 독수리 타자로 600타... 키보드 두들기는 마법사
+- 독수리 타자로 최대 1100타... 키보드 두들기는 마법사
 - 오타쿠임 ㅇㅇ
-- 삭발했습니다... 사실임
-- 한자 3급 정도는 침 (고수 아님!)
+- 한자 특급 10문제 중에 9문제는 맞춤 ㅇㅇ
 - 국어 실력 딸려서 뭐쓸지 모르겠음
   
 > ❗ **주의** : 제 별명 '아코'는 인터넷에 검색하지 마세요. 후방주의...
@@ -39,19 +38,4 @@
 
 
 ---
-
-### 🫠 Fan
-
-> 아코 ♡ 나나오아카리
-
-<p align="center">
-  <img src="https://scontent-gmp1-1.cdninstagram.com/v/t51.29350-15/491425872_588118147614596_2223303141735834608_n.heic?stp=dst-jpg_e35_tt6&efg=eyJ2ZW5jb2RlX3RhZyI6InRocmVhZHMuQ0FST1VTRUxfSVRFTS5pbWFnZV91cmxnZW4uMTQ0MHgxODAwLnNkci5mMjkzNTAuZGVmYXVsdF9pbWFnZS5jMiJ9&_nc_ht=scontent-gmp1-1.cdninstagram.com&_nc_cat=108&_nc_oc=Q6cZ2QH8PM90VaqlFG8as1WP51R0QsWgbYteGzaOCGehZoN6JCXEwR6WYa_F36on4VDFSZI&_nc_ohc=C2SMzif2YX4Q7kNvwFoeO0Y&_nc_gid=b-El5L97P1vF7VEuMokeJQ&edm=APs17CUBAAAA&ccb=7-5&ig_cache_key=MzYxMDU0NzkwMDEyOTQxMTY5Mg%3D%3D.3-ccb7-5&oh=00_AfVKqzOoUhT7c1oL_6UHG9FMhqdKO3WIm6tyRaGV6s90tA&oe=68960E1C&_nc_sid=10d13b" width="400" />
-</p>
-
----
-
-### 💬 끝으로...
-<img src="https://i.ibb.co/tTf66MLr/Kakao-Talk-Photo-2025-08-13-18-08-04.png" />
-- “중요한 것은 아름답게 만들고, 그 안의 사소한 것들은 제거하자!”  <br />
-- Project 要雅小非 @ RC9 Studio <br />
 
